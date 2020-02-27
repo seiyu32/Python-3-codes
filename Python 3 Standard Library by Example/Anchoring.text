@@ -1,0 +1,5 @@
+Anchoring
+
+In addition to describing the content of a pattern to match, the relative location can be
+specified in the input text where the pattern should appear by using anchoring instructions.
+Table 1.2 lists valid anchoring codes.

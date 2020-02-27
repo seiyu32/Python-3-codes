@@ -1,0 +1,3 @@
+Use the indent() function to add consistent prefix text to all of the lines in a string.
+This example formats the same example text as though it was part of an email message being
+quoted in the reply, using > as the prefix for each line.

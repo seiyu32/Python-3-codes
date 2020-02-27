@@ -1,0 +1,2 @@
+ Because enumeration members are not ordered, they support only comparison by identify
+ and equality.

@@ -1,0 +1,7 @@
+Pattern Syntax
+
+Regular expressions support more powerful patterns than simple literal text strings.
+Patterns can repeat, can be anchored to different logical locations within the input,
+and can be expressed in compact forms that do not require every literal character to be
+present in the pattern. All of these features are used by combining literal text values
+with meta-characters that are part of the regular expression pattern syntax implemented by re

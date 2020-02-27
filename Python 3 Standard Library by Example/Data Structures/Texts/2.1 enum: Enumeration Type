@@ -1,0 +1,7 @@
+The enum module defines an enumeration type with iteration and comparison capabilities.
+It can be used to create well-defined symbols for values, instead of using literal integers
+or strings.
+
+2.1.1  Creating Enumeration Type
+A new enumeration is defined using the class syntax by subclassing Enum and adding class
+attributes describing the values.

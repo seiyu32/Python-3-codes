@@ -1,0 +1,8 @@
+Repetition
+
+There are five ways to express repetition in a pattern. A pattern followed by the metacharacter * is repeated zero or more times
+(allowing a pattern to repeat zero times means it does not need appear at all to match). If the * is replaced with +, the pattern
+must appear at least once. Using ? means the pattern appears zero or one time. For a specific number of occurrences, use {m} after
+the pattern, where m is the number of times the pattern should repeat. Finally, to allow a variable but limited number of repetitions,
+use {m, n}, where m is the minimum number of repetitions and n is the maximum. Leaving out n ({m,}) means
+the value must appear at least m times, with no maximum.

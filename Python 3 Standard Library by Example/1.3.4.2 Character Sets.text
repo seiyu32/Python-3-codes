@@ -1,0 +1,2 @@
+A character set is a group of characters, any one which can match at that point in the
+pattern. For example, [ab] would match either a or b.

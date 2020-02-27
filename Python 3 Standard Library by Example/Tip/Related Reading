@@ -1,0 +1,14 @@
+Related Reading
+
+    * Standard library documentation for string.(2)
+    * String Methods(3) Methods of str objects that replace the deprecated functions in string.
+    * PEP 292(4): Simpler String Substitutions.
+    * Format String Syntax(5): The formal definition of the layout specification language used by Formatter and str. format().
+
+
+
+
+2 https://docs.python.org/3.7/library/string.html
+3 https://docs.python.org/3.7/stdytpes.html#string.methods
+4 www.python.org/dev/peps/pep-0292
+5 https://docs.python.org/3.7/library string.html#format-string-syntax
